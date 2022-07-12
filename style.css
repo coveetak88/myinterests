@@ -1,0 +1,35 @@
+.tes {
+  text-decoration: underline;
+}
+.songlist {
+  text-align: left;
+  color: green;
+}
+
+.title {
+  text-align: center;
+  color: blue;
+}
+
+.desctitle {
+  color: red;
+}
+
+#yangyangImg {
+  float : middle;
+}
+
+#food {
+  float: center;
+}
+
+body, html {
+  background-size: cover;
+  background-color: black;
+  color: #FFFFFF;
+  display: grid;
+  font-family: 'Scope One', serif;
+  font-size: 22px;
+  height: 100%;
+}
+  
